@@ -382,7 +382,13 @@
     position: relative;
     z-index: 1;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    flex-direction: column;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Playfair Display';
+    font-weight: thin;
+    align-items: center;
 }
 
 .paraf:before {
@@ -399,6 +405,39 @@
     right: 0;
     position: absolute; 
     z-index: -1;
+}
+
+.paraf .swiper-container {
+    width: 770px;
+    height: 250px;
+   
+}
+
+.paraf .empl .name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.paraf .empl .dol{
+    font-family: 'Roboto', sans-serif;
+    font-weight: thin;
+    font-size: 13px;
+}
+
+.paraf .employ {
+    position: relative;
+}
+
+.paraf .swiper-button-prev {
+    position: absolute;
+    top: 60%;
+    left: -20%;
+}
+
+.paraf .swiper-button-next {
+    position: absolute;
+    top: 60%;
+    right: -20%;
 }
 
 .client_dash_wrapp {
