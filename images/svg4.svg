@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="50.000000pt" height="50.000000pt" viewBox="0 0 50.000000 50.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,50.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none"><defs>
+        <linearGradient id="grad1">
+            <stop offset="0%" stop-color="#0de8d3"/>
+            <stop offset="100%" stop-color="#0daed0"/>
+        </linearGradient>
+    </defs>
+<path d="M200 476 c0 -18 -7 -25 -30 -29 -46 -10 -109 -56 -136 -102 -20 -35
+-24 -55 -24 -119 0 -86 11 -115 62 -162 50 -47 74 -56 154 -56 90 0 136 21
+179 80 20 27 36 40 48 38 27 -6 39 28 38 115 0 58 -6 89 -20 117 -21 42 -74
+92 -120 116 -33 17 -101 24 -121 11 -9 -5 -11 -4 -6 3 4 7 1 12 -8 12 -10 0
+-16 -9 -16 -24z m131 -32 c97 -49 153 -155 129 -245 l-10 -37 -106 37 -105 37
+0 112 c0 62 0 114 1 117 0 7 63 -7 91 -21z m-131 -128 l0 -104 78 -28 c42 -15
+87 -31 100 -36 19 -6 21 -11 12 -27 -23 -44 -111 -91 -170 -91 -14 0 -50 12
+-78 26 -140 70 -142 267 -3 341 24 13 48 23 53 23 4 0 8 -47 8 -104z" fill="url(#grad1)"/>
+</g>
+</svg>
